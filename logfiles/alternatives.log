@@ -1,0 +1,26 @@
+update-alternatives 2025-01-05 08:44:03: run with --install /usr/share/images/vendor-logos vendor-logos /usr/share/images/kali-logos 200 --slave /usr/share/icons/vendor/64x64/emblems/emblem-vendor.png emblem-vendor-64 /usr/share/icons/desktop-base/64x64/emblems/emblem-kali.png --slave /usr/share/icons/vendor/128x128/emblems/emblem-vendor.png emblem-vendor-128 /usr/share/icons/desktop-base/128x128/emblems/emblem-kali.png --slave /usr/share/icons/vendor/256x256/emblems/emblem-vendor.png emblem-vendor-256 /usr/share/icons/desktop-base/256x256/emblems/emblem-kali.png --slave /usr/share/icons/vendor/scalable/emblems/emblem-vendor.svg emblem-vendor-scalable /usr/share/icons/desktop-base/scalable/emblems/emblem-kali.svg
+update-alternatives 2025-01-05 08:44:03: run with --install /usr/share/desktop-base/active-theme desktop-theme /usr/share/desktop-base/kali-theme 200
+update-alternatives 2025-01-05 08:44:03: run with --install /usr/share/images/desktop-base/desktop-background desktop-background /usr/share/backgrounds/kali-16x9/default 210
+update-alternatives 2025-01-05 08:44:03: run with --install /usr/share/images/desktop-base/desktop-background.xml desktop-background.xml /usr/share/desktop-base/kali-theme/wallpaper/gnome-background.xml 210
+update-alternatives 2025-01-05 08:44:03: run with --install /usr/share/images/desktop-base/desktop-lockscreen.xml desktop-lockscreen.xml /usr/share/desktop-base/kali-theme/lockscreen/gnome-background.xml 210
+update-alternatives 2025-01-05 08:44:03: run with --install /usr/share/wallpapers/DebianTheme desktop-plasma5-wallpaper /usr/share/desktop-base/kali-theme/wallpaper 210
+update-alternatives 2025-01-05 08:44:03: run with --install /usr/share/images/desktop-base/login-background.svg desktop-login-background /usr/share/desktop-base/kali-theme/login/background.svg 210
+update-alternatives 2025-01-05 08:44:03: run with --install /usr/share/images/desktop-base/desktop-grub.png desktop-grub /usr/share/grub/themes/kali/grub-4x3.png 200 --slave /usr/share/desktop-base/grub_background.sh desktop-grub.sh /usr/share/grub/themes/kali/grub_background.sh
+update-alternatives 2025-01-05 08:44:03: run with --install /usr/share/images/desktop-base/desktop-grub.png desktop-grub /usr/share/grub/themes/kali/grub-16x9.png 190 --slave /usr/share/desktop-base/grub_background.sh desktop-grub.sh /usr/share/grub/themes/kali/grub_background.sh
+update-alternatives 2025-01-05 08:44:29: run with --remove mpg123 /usr/bin/mpg123-oss
+update-alternatives 2025-01-05 08:44:29: run with --remove mp3-decoder /usr/bin/mpg123-oss
+update-alternatives 2025-01-05 08:44:29: run with --remove mpg123 /usr/bin/mpg123-alsa
+update-alternatives 2025-01-05 08:44:29: run with --remove mp3-decoder /usr/bin/mpg123-alsa
+update-alternatives 2025-01-05 08:44:29: run with --remove mpg123 /usr/bin/mpg123-esd
+update-alternatives 2025-01-05 08:44:29: run with --remove mp3-decoder /usr/bin/mpg123-esd
+update-alternatives 2025-01-05 08:44:29: run with --remove mpg123 /usr/bin/mpg123-nas
+update-alternatives 2025-01-05 08:44:29: run with --remove mp3-decoder /usr/bin/mpg123-nas
+update-alternatives 2025-01-05 08:44:29: run with --remove mpg123 /usr/bin/mpg123-oss-i486
+update-alternatives 2025-01-05 08:44:29: run with --remove mp3-decoder /usr/bin/mpg123-oss-i486
+update-alternatives 2025-01-05 08:44:29: run with --install /usr/bin/mpg123 mpg123 /usr/bin/mpg123.bin 120 --slave /usr/share/man/man1/mpg123.1.gz mpg123.1.gz /usr/share/man/man1/mpg123.bin.1.gz
+update-alternatives 2025-01-05 08:44:29: run with --install /usr/bin/mp3-decoder mp3-decoder /usr/bin/mpg123.bin 20 --slave /usr/share/man/man1/mp3-decoder.1.gz mp3-decoder.1.gz /usr/share/man/man1/mpg123.bin.1.gz
+update-alternatives 2025-01-05 08:44:31: run with --install /usr/bin/xdvi.bin xdvi.bin /usr/bin/xdvi-xaw 30
+update-alternatives 2025-01-05 08:44:31: run with --install /usr/bin/bibtex bibtex /usr/bin/bibtex.original 100 --slave /usr/share/man/man1/bibtex.1.gz bibtex.1.gz /usr/share/man/man1/bibtex.original.1.gz
+update-alternatives 2025-01-05 08:44:31: run with --install /usr/bin/php php /usr/bin/php8.2 82 --slave /usr/share/man/man1/php.1.gz php.1.gz /usr/share/man/man1/php8.2.1.gz
+update-alternatives 2025-01-05 08:44:31: run with --install /usr/bin/phar phar /usr/bin/phar8.2 82 --slave /usr/share/man/man1/phar.1.gz phar.1.gz /usr/share/man/man1/phar8.2.1.gz
+update-alternatives 2025-01-05 08:44:31: run with --install /usr/bin/phar.phar phar.phar /usr/bin/phar.phar8.2 82 --slave /usr/share/man/man1/phar.phar.1.gz phar.phar.1.gz /usr/share/man/man1/phar.phar8.2.1.gz
